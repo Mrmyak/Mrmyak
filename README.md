@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrmyak
 <!-- - 👀 I’m interested in C -->
-- 🌱 I’m currently learning  Javascript/React
+- 🌱 I’m currently learning React
 - 📫 Reach me @ mahessacharya.gmail.com
 
 <!---
